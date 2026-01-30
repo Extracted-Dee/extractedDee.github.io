@@ -11,5 +11,5 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://astronaut.github.io',
+  site: 'https://extractedDee.github.io',
 })
