@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Dymon Harris",
+  title: "Junior Data Analyst",
+  description: "Portfolio website of Dymon Harris",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
+    email: "Dymonch11@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    github: "https://github.com/Extracted-Dee",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Analytical and tech-savvy Data Analyst with 3+ years of experience transforming data into actionable insights using Python, SQL, Excel, Tableau, and Power Bl. Skilled in data cleaning, visualization, and statistical analysis with a strong foundation in ethical and cybersecurity-conscious data practices. Proven success streamlining operations, improving data accuracy, and presenting findings to stakeholders for data-driven decision-making. Passionate about leveraging analytics to optimize business performance and drive process improvement",
+  skills: ["Python", "RStudio", "Javascript", "Tableau", "PowerBI", "SQL", "Excel", "Adobe Photoshop", "C++", "HTML", "Assembly Lnaguage"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -69,18 +69,18 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Southern New Hampshiere University",
+      degree: "Bachelor of Science in Data Analysis",
+      dateRange: "2022 - 2025",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
+        "Dean's List multiple semesters",
         "President of Computer Science Club",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
+      school: "Suffolk Community College",
+      degree: "Associates of Science in Computer Science",
       dateRange: "2019",
       achievements: [
         "Completed 500+ hours of coursework",
